@@ -6,7 +6,7 @@ The WNBA Draft Predictor is designed to forecast the top 12 first-round WNBA dra
 - Full ML Pipeline: feature engineering, preprocessing, and model training
 -  Visualizes feature importance and model metrics
 -  Outputs top 12 projected draft picks
--  
+ 
 ---
 
 ## 🦾 Models Tested

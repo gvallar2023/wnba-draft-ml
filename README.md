@@ -34,3 +34,24 @@ The WNBA Draft Predictor is designed to forecast the top 12 first-round WNBA dra
 ## 🔭 Data Sets Needed (Provided)
 - college_prosepcts.csv
 - wnbadraft.csv
+
+---
+
+## 🚀 Future Improvements
+- Automated Live Data Scraping
+   - Integrate web scraping pipelines for ESPN, WNBA, and other statistical websites
+   - Enable daily or weekly refresh to generate updated rankings throughout the season
+   - Add error-handling and validation to ensure consistent and clean updates
+- Public Facing UI / Website
+   - Develop a user-friendly web interface to display model rankings, leaderboards, team       metrics, and predictions
+   - Add search tools and filters for teams, year, and player profiles
+- Expanded Roster & Personnel Data
+   - Add complete rosters for each WNBA team, including statistics
+   - Integrate team stats like wins, losses, and starting five
+- Player Profile System
+   - Implement player pages that include:
+      - Injury history & current injury status
+      - Transfer portal history
+    - Automatically update profiles using scraping and API checks 
+- Model Enhacements
+   - Add new features such as lineup combos and advanced game logs

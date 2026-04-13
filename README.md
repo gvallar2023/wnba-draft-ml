@@ -57,4 +57,4 @@ The WNBA Draft Predictor is designed to forecast the top 12 first-round WNBA dra
    - Add new features such as lineup combos and advanced game logs
 
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/gvallar2023/wnba-draft-ml/badge)](https://scorecard.dev/viewer/?uri=github.com/gvallar2023/wnba-draft-ml)
- 
+ [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/12483/badge)](https://www.bestpractices.dev/projects/12483)
